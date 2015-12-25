@@ -28,17 +28,17 @@ baseurl: ""
 
 
 
-title: "RainyAlley"
-email: "dubuyuye@yeah.net"
+title: "十八亩地"
+email: "919177684@qq.com"
 description: "Developer"
-github_username:  "dubuyuye"
+github_username:  "shibamudi"
 swiftype_searchId: "ncwR9a8S9CTx2q9SgsJm"
 disqus_shortname: "rainyalley"
 
 
 
-url: "http://blog.rainyalley.com"
-imgrepo: "http://blog.rainyalley.com/static/img"
+url: "http://blog.shibamudi.com/blog"
+imgrepo: "http://blog.shibamudi.com/blog/static/img"
 #url: "http://127.0.0.1:4000"
 #imgrepo: "http://127.0.0.1:4000/static/img"
 

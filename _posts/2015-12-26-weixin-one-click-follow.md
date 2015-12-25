@@ -65,8 +65,8 @@ weixin://dl/features 功能插件
 iphone无效是真的……安卓是这样的：
 ![并木有卵用](http://cl.ly/2n3C3b1n382k/error.jpg)
 
-**只有有效的才是王道，专心研究怎么用`eixin://dl/business`吧。**
+**只有有效的才是王道，专心研究怎么用`weixin://dl/business`吧。**
 
 ***
-## ticket是神马
+## `ticket`是神马？
 【】未完待续……

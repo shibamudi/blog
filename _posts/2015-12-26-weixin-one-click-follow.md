@@ -41,3 +41,20 @@ chrome调试，查看Network
 
 ***
 ## 微信协议weixin://
+百度说，`weixin://`叫做微信协议，有一堆功能：
+> weixin://dl/scan 扫一扫
+weixin://dl/feedback 反馈
+weixin://dl/moments 朋友圈
+weixin://dl/settings 设置
+weixin://dl/notifications 消息通知设置
+weixin://dl/chat 聊天设置
+weixin://dl/general 通用设置
+weixin://dl/officialaccounts 公众号
+weixin://dl/games 游戏
+weixin://dl/help 帮助
+weixin://dl/feedback 反馈
+weixin://dl/profile 个人信息
+weixin://dl/features 功能插件
+来源：[知乎某问答](http://www.zhihu.com/question/30616809?sort=created)
+
+测试了几个，有效，然并卵…… 打开公众号那个是打开订阅号文件夹，都和一键关注相去甚远……

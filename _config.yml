@@ -37,8 +37,8 @@ disqus_shortname: "rainyalley"
 
 
 
-url: "http://blog.shibamudi.com/blog"
-imgrepo: "http://blog.shibamudi.com/blog/static/img"
+url: "http://blog.shibamudi.com"
+imgrepo: "http://blog.shibamudi.com/static/img"
 #url: "http://127.0.0.1:4000"
 #imgrepo: "http://127.0.0.1:4000/static/img"
 

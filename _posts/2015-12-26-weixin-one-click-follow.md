@@ -10,7 +10,7 @@ categories: 微信相关
 
 他们做到了，像这样：
 
-[招行一键关注示例](http://cmbt.cn/MYQeF2)
+[http://cmbt.cn/MYQeF2](http://cmbt.cn/MYQeF2)
 
 ![招行一键关注示例](http://cl.ly/0n070i3N2N02/Image%202015-12-26%20at%2000.02.55.png)
 
@@ -22,12 +22,13 @@ categories: 微信相关
 # 招行都做了啥？
 chrome调试，查看Network
 
-![chrome调试](http://cl.ly/0O0c2g0e2U2M/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202015-12-26%2000.12.25.png)
+![chrome调试](http://cl.ly/0n070i3N2N02/Image%202015-12-26%20at%2000.02.55.png)
 
 点击之后，先是图上红框的三个请求。第三个之后，由于不是在手机上打开，网页被重定向。
 
 注意到第三个请求的url是
 > weixin://dl/business/?ticket=t7c07ffeff492f56fe5f5d4d9c32bc0cf
+
 以`weixin://`开头，貌似比较关键。
 
 另外带了一个`ticket`参数，而且每次是不一样的。

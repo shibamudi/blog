@@ -3,6 +3,7 @@ layout: post
 title: 用数组为表单字段命名
 tags: html form 
 categories: CODE小习惯
+
 ---
 
 为表单中字段命名时，选择数组方式，而不是简单字符串，以便后台分组处理。

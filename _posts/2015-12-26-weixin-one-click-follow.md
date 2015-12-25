@@ -59,3 +59,5 @@ weixin://dl/features 功能插件
 
 测试了几个，有效，然并卵…… 打开公众号那个是打开订阅号文件夹，都和一键关注相去甚远……
 
+> ![方倍一键关注](http://cl.ly/023u27032205/Image%202015-12-26%20at%2000.56.50.png)  
+来源：[方倍工作室-一键关注微信公众平台账号](http://www.cnblogs.com/txw1958/p/weixin41-follow-method.html)

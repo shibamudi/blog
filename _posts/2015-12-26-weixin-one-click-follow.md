@@ -61,10 +61,6 @@ weixin://dl/features 功能插件
 
 > ![方倍一键关注](http://cl.ly/023u27032205/Image%202015-12-26%20at%2000.56.50.png)  
 来源：[方倍工作室-一键关注微信公众平台账号](http://www.cnblogs.com/txw1958/p/weixin41-follow-method.html)
-<<<<<<< HEAD
 
 iphone无效是真的……安卓是这样的：
-![并木有卵用](http://cl.ly/2n3C3b1n382k/error.jpg =200)
-
-=======
->>>>>>> parent of 8d93fc2... weixin-one-click-follow
+![并木有卵用](http://cl.ly/2n3C3b1n382k/error.jpg)

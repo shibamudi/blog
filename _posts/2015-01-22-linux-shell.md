@@ -5,7 +5,6 @@ tags: shell Linux script
 categories: Linux
 ---
 
-<div class="toc"></div>
 
 Shell有两种执行命令的方式：
 
